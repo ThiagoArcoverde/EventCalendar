@@ -1,0 +1,11 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore Vue.js node_modules
+frontend/node_modules/
+
+# Ignore npm debug log
+npm-debug.log
+
+# Ignore vscode folder
+.vscode/
